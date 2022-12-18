@@ -8,5 +8,6 @@ Papa 7-17-2021
 Papa 12-17-2022
 ```{r,echo=FALSE}
 # papa-12-17-2022
-hist(mtcars$mph)
+Tom <- c(12,21,23,21,34,22)
+plot(Tom)
 ```
